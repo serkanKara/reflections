@@ -1,0 +1,57 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It positions the two excerpts together
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It will save time
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I would have total control over changes
+	I can go back to earlier drafts
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Programmers need to work with multiple files
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I am not sure about git log
+	git diff will pick and show
+	all changes
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You can always go back to the earlier version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Files for a programming project may be
+	
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	I can only think in terms of safety
+	If I lose some lines,
+	Or if the program does not work
+	I can revert to the previous version
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Because many programming projects are consisted of interdependent multiple files.
+	
+How can you use the commands git log and git diff to view the history of files?
+	I use 'git log' as a stand-alone command.
+	I use git diff with two committed versions.
+	
+How might using version control make you more confident to make changes that could break something?
+	I can always use the git checkout and the commit ID to return to a non-ruined version.
+	
+Now that you have your workspace set up, what do you want to try using Git for?
+	I want to use it for projects in collaboration with other people. Practicing, push, pull, merge, and so on.
