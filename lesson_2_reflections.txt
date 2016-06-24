@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	You probably start tracking the files in that directory by Git. Because we want to continue our work with a version control system, like Git, for safety.
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	This is where we organize, categorize our changed files. We can group the files for a single commit.
